@@ -3,13 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishanth023&label=Profile%20views&color=0e75b6&style=flat" alt="nishanth023" /> </p>
 
-- 🔭 I’m currently **Developing My Skills**
+- 🔭 I’m currently On **Developing My Skills**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nishanth023](https://github.com/nishanth023)
 
 - 📫 How to reach me **nishanth.ec19@bitsathy.ac.in**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1diCx-ItOEb5Eb5vDpp3sDK2dxKz_Wys0/view](https://drive.google.com/file/d/1diCx-ItOEb5Eb5vDpp3sDK2dxKz_Wys0/view)
+- 📄 You can also check out my portfolio [https://nishanth023.github.io/Portfolio/](https://nishanth023.github.io/Portfolio/)
+
+- ⚡ Fun fact **Level it up**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
